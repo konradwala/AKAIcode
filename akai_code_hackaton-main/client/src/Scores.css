@@ -1,0 +1,49 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.opis{
+    display: flex;
+    flex-direction: row;
+    width: 1000px;
+    justify-content: space-around;
+    text-align: center;
+    border-bottom: 2px black solid;
+}
+.table{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.results{
+
+    display: flex;
+    flex-direction: row;
+    width: 1000px;
+    justify-content: space-around;
+    text-align: center;
+    border-bottom: 2px black solid;
+}
+
+.player-des{
+    width: 100px;
+    height: 70px;
+    text-align: center;
+    
+}
+.player-game{
+    text-align: center;
+    width: 100px;
+    height: 70px;
+    margin-bottom: -100px;
+}
+.player-username{
+    text-align: center;
+    width: 100px;
+    height: 70px;
+}
+.div-mrg{
+    padding-top: 40px;
+
+}

@@ -1,0 +1,14 @@
+debug/WashingHandsFunctions.o
+debug/babcia.o
+debug/button.o
+debug/fonts.o
+debug/gra_zakupy.o
+debug/instruction.o
+debug/main.o
+debug/mouseandcursor.o
+debug/picture.o
+debug/platforma.o
+debug/project.o
+debug/textures.o
+debug/wolontariusz.o
+debug/zbieranie_smieci.o

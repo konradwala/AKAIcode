@@ -1,0 +1,14 @@
+release/WashingHandsFunctions.o
+release/babcia.o
+release/button.o
+release/fonts.o
+release/gra_zakupy.o
+release/instruction.o
+release/main.o
+release/mouseandcursor.o
+release/picture.o
+release/platforma.o
+release/project.o
+release/textures.o
+release/wolontariusz.o
+release/zbieranie_smieci.o
